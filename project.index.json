@@ -1,0 +1,9 @@
+{
+	"name" : "State Restore Probability Calculator",
+	"description" : "Probability to restore from COVID-19, and escape plan generator (flights out of residing region)",
+	"created" : "11/03/2021",
+	"completed" : "true",
+	"modules" : ["json","requests","datetime","difflib"],
+	"hosting" : {"hosted" : "false"},
+	"code" : "ST-01042021-200658"
+}
